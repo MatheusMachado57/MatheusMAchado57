@@ -12,7 +12,7 @@
   <img align="center" alt="MM-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MM-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MM-julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-  <img align="right"  height="160"   alt="MM"    src = "<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/ZAaaCK5RhUWxG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-hi-made-by-me-ZAaaCK5RhUWxG">via GIPHY</a></p>"
+  <img align="right"  height="160"   alt="MM"    src = "https://giphy.com/embed/ZAaaCK5RhUWxG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-hi-made-by-me-ZAaaCK5RhUWxG">via GIPHY</a></p>"
   ### Emails de contato:
   
   matheusalmeida1995@hotmail.com
