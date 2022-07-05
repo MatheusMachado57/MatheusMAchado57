@@ -12,7 +12,7 @@
   <img align="center" alt="MM-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MM-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MM-julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-  <img align="right" height="160"alt="MM" src="https://i.gifer.com/LGYe.gif>
+  <img align="right" height="160"alt="MM" src="<iframe src="https://giphy.com/embed/a1QLZUUtCcgyA" width="480" height="285" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hi-stitch-a1QLZUUtCcgyA">via GIPHY</a></p>"
  
   ### Emails de contato:
   
