@@ -12,7 +12,7 @@
   <img align="center" alt="MM-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MM-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MM-julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-  <img align="right" height="160"alt="MM" src="<iframe src="https://gifer.com/embed/LGYe" width=480 height=282.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>"
+  <img align="right"  height="160"   alt="MM"    src = "https://gifer.com/embed/LGYe"
  
   ### Emails de contato:
   
