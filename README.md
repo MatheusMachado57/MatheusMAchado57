@@ -1,6 +1,4 @@
 ## Bem Vindo!!
- 
-!<div style="width:100%;height:0;padding-bottom:113%;position:relative;"><iframe src="https://giphy.com/embed/9oIt6iam2411XVSnUa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nintendo-9oIt6iam2411XVSnUa">via GIPHY</a></p>
 
  <div>
   <a href="https://github.com/MatheusMachado57">
