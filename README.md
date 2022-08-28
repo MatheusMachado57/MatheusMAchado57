@@ -1,15 +1,12 @@
 ## Bem Vindo!!
  
-
+ ![https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)  
  
  <div>
   <a href="https://github.com/MatheusMachado57">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMachado57&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMachado57&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-
- ![https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)  
- </div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="MM-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
