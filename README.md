@@ -1,7 +1,7 @@
 ## Bem Vindo!!
 
-![<div style="width:20%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/MU6cScXOPcdCH4mDhe" width="20%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nintendo-MU6cScXOPcdCH4mDhe">via GIPHY</a></p>](https://media.giphy.com/media/MU6cScXOPcdCH4mDhe/giphy.gif)](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)
-
+![https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)
+ 
  <div>
   <a href="https://github.com/MatheusMachado57">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMachado57&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
