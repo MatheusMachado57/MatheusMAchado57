@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMachado57&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-<div> 
  ![https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif](https://media.giphy.com/media/9oIt6iam2411XVSnUa/giphy.gif)  
  </div>
  
