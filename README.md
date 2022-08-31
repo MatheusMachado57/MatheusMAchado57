@@ -13,7 +13,7 @@
   <img align="center" alt="MM-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MM-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MM-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css5/css5-original.svg">
+  <img align="center" alt="MM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css4/css4-original.svg">
   <img align="center" alt="MM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
  
